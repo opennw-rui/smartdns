@@ -1,0 +1,3 @@
+criteo.com
+doubleclick.net
+googleadservices.com
